@@ -1,0 +1,261 @@
+Reading graph 1
+The path from 0 to 0 is: 0 and the total distance is : 0
+The path from 0 to 1 is: 0 --> 7 --> 1 and the total distance is : 35
+The path from 0 to 2 is: 0 --> 2 and the total distance is : 26
+The path from 0 to 3 is: 0 --> 2 --> 3 and the total distance is : 43
+The path from 0 to 4 is: 0 --> 4 and the total distance is : 38
+The path from 0 to 5 is: 0 --> 7 --> 5 and the total distance is : 44
+The path from 0 to 6 is: 0 --> 6 and the total distance is : 57
+The path from 0 to 7 is: 0 --> 7 and the total distance is : 16
+Reading graph 2
+The path from 0 to 0 is: 0 and the total distance is : 0
+The path from 0 to 1 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 1 and the total distance is : 706
+The path from 0 to 2 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 181 --> 42 --> 2 and the total distance is : 648
+The path from 0 to 3 is: 0 --> 97 --> 248 --> 104 --> 45 --> 3 and the total distance is : 461
+The path from 0 to 4 is: 0 --> 44 --> 93 --> 187 --> 77 --> 4 and the total distance is : 420
+The path from 0 to 5 is: 0 --> 44 --> 93 --> 32 --> 5 and the total distance is : 315
+The path from 0 to 6 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 --> 6 and the total distance is : 864
+The path from 0 to 7 is: 0 --> 44 --> 93 --> 231 --> 208 --> 57 --> 7 and the total distance is : 431
+The path from 0 to 8 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 --> 8 and the total distance is : 704
+The path from 0 to 9 is: 0 --> 58 --> 9 and the total distance is : 202
+The path from 0 to 10 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 --> 152 --> 246 --> 10 and the total distance is : 898
+The path from 0 to 11 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 207 --> 11 and the total distance is : 736
+The path from 0 to 12 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 242 --> 12 and the total distance is : 717
+The path from 0 to 13 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 70 --> 100 --> 13 and the total distance is : 837
+The path from 0 to 14 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 and the total distance is : 715
+The path from 0 to 15 is: 0 --> 15 and the total distance is : 57
+The path from 0 to 16 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 --> 16 and the total distance is : 909
+The path from 0 to 17 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 and the total distance is : 799
+The path from 0 to 18 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 18 and the total distance is : 651
+The path from 0 to 19 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 79 --> 19 and the total distance is : 767
+The path from 0 to 20 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 --> 75 --> 20 and the total distance is : 804
+The path from 0 to 21 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 188 --> 21 and the total distance is : 437
+The path from 0 to 22 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 --> 120 --> 22 and the total distance is : 977
+The path from 0 to 23 is: 0 --> 58 --> 23 and the total distance is : 169
+The path from 0 to 24 is: 0 --> 24 and the total distance is : 101
+The path from 0 to 25 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 --> 25 and the total distance is : 780
+The path from 0 to 26 is: 0 --> 44 --> 93 --> 32 --> 102 --> 26 and the total distance is : 338
+The path from 0 to 27 is: 0 --> 44 --> 93 --> 226 --> 138 --> 27 and the total distance is : 430
+The path from 0 to 28 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 242 --> 28 and the total distance is : 658
+The path from 0 to 29 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 227 --> 29 and the total distance is : 1033
+The path from 0 to 30 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 30 and the total distance is : 681
+The path from 0 to 31 is: 0 --> 97 --> 248 --> 104 --> 45 --> 76 --> 37 --> 31 and the total distance is : 572
+The path from 0 to 32 is: 0 --> 44 --> 93 --> 32 and the total distance is : 205
+The path from 0 to 33 is: 0 --> 222 --> 114 --> 33 and the total distance is : 180
+The path from 0 to 34 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 --> 120 --> 34 and the total distance is : 1003
+The path from 0 to 35 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 35 and the total distance is : 700
+The path from 0 to 36 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 35 --> 36 and the total distance is : 788
+The path from 0 to 37 is: 0 --> 97 --> 248 --> 104 --> 45 --> 76 --> 37 and the total distance is : 478
+The path from 0 to 38 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 146 --> 109 --> 38 and the total distance is : 1144
+The path from 0 to 39 is: 0 --> 15 --> 39 and the total distance is : 147
+The path from 0 to 40 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 --> 164 --> 40 and the total distance is : 817
+The path from 0 to 41 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 242 --> 198 --> 41 and the total distance is : 766
+The path from 0 to 42 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 181 --> 42 and the total distance is : 534
+The path from 0 to 43 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 221 --> 43 and the total distance is : 644
+The path from 0 to 44 is: 0 --> 44 and the total distance is : 64
+The path from 0 to 45 is: 0 --> 97 --> 248 --> 104 --> 45 and the total distance is : 342
+The path from 0 to 46 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 --> 186 --> 46 and the total distance is : 918
+The path from 0 to 47 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 227 --> 218 --> 47 and the total distance is : 1051
+The path from 0 to 48 is: 0 --> 59 --> 50 --> 48 and the total distance is : 247
+The path from 0 to 49 is: 0 --> 49 and the total distance is : 48
+The path from 0 to 50 is: 0 --> 59 --> 50 and the total distance is : 148
+The path from 0 to 51 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 110 --> 51 and the total distance is : 686
+The path from 0 to 52 is: 0 --> 44 --> 93 --> 231 --> 52 and the total distance is : 229
+The path from 0 to 53 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 --> 53 and the total distance is : 924
+The path from 0 to 54 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 --> 6 --> 54 and the total distance is : 976
+The path from 0 to 55 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 and the total distance is : 426
+The path from 0 to 56 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 --> 120 --> 56 and the total distance is : 963
+The path from 0 to 57 is: 0 --> 44 --> 93 --> 231 --> 208 --> 57 and the total distance is : 364
+The path from 0 to 58 is: 0 --> 58 and the total distance is : 99
+The path from 0 to 59 is: 0 --> 59 and the total distance is : 106
+The path from 0 to 60 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 --> 60 and the total distance is : 814
+The path from 0 to 61 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 and the total distance is : 660
+The path from 0 to 62 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 and the total distance is : 446
+The path from 0 to 63 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 --> 25 --> 63 and the total distance is : 873
+The path from 0 to 64 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 --> 64 and the total distance is : 992
+The path from 0 to 65 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 and the total distance is : 360
+The path from 0 to 66 is: 0 --> 149 --> 66 and the total distance is : 171
+The path from 0 to 67 is: 0 --> 97 --> 248 --> 104 --> 217 --> 67 and the total distance is : 368
+The path from 0 to 68 is: 0 --> 68 and the total distance is : 118
+The path from 0 to 69 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 and the total distance is : 576
+The path from 0 to 70 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 70 and the total distance is : 699
+The path from 0 to 71 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 71 and the total distance is : 428
+The path from 0 to 72 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 and the total distance is : 749
+The path from 0 to 73 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 --> 120 --> 73 and the total distance is : 1020
+The path from 0 to 74 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 --> 64 --> 183 --> 74 and the total distance is : 1141
+The path from 0 to 75 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 --> 75 and the total distance is : 776
+The path from 0 to 76 is: 0 --> 97 --> 248 --> 104 --> 45 --> 76 and the total distance is : 452
+The path from 0 to 77 is: 0 --> 44 --> 93 --> 187 --> 77 and the total distance is : 313
+The path from 0 to 78 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 and the total distance is : 422
+The path from 0 to 79 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 79 and the total distance is : 684
+The path from 0 to 80 is: 0 --> 80 and the total distance is : 68
+The path from 0 to 81 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 and the total distance is : 856
+The path from 0 to 82 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 207 --> 82 and the total distance is : 727
+The path from 0 to 83 is: 0 --> 97 --> 248 --> 104 --> 83 and the total distance is : 313
+The path from 0 to 84 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 70 --> 84 and the total distance is : 780
+The path from 0 to 85 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 207 --> 82 --> 85 and the total distance is : 770
+The path from 0 to 86 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 and the total distance is : 624
+The path from 0 to 87 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 and the total distance is : 630
+The path from 0 to 88 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 35 --> 88 and the total distance is : 771
+The path from 0 to 89 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 89 and the total distance is : 750
+The path from 0 to 90 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 and the total distance is : 532
+The path from 0 to 91 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 --> 91 and the total distance is : 995
+The path from 0 to 92 is: 0 --> 191 --> 165 --> 172 --> 92 and the total distance is : 403
+The path from 0 to 93 is: 0 --> 44 --> 93 and the total distance is : 131
+The path from 0 to 94 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 94 and the total distance is : 667
+The path from 0 to 95 is: 0 --> 97 --> 248 --> 104 --> 83 --> 95 and the total distance is : 432
+The path from 0 to 96 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 --> 25 --> 96 and the total distance is : 868
+The path from 0 to 97 is: 0 --> 97 and the total distance is : 77
+The path from 0 to 98 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 35 --> 88 --> 98 and the total distance is : 856
+The path from 0 to 99 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 129 --> 99 and the total distance is : 929
+The path from 0 to 100 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 70 --> 100 and the total distance is : 812
+The path from 0 to 101 is: 0 --> 191 --> 165 --> 118 --> 197 --> 125 --> 101 and the total distance is : 524
+The path from 0 to 102 is: 0 --> 44 --> 93 --> 32 --> 102 and the total distance is : 297
+The path from 0 to 103 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 79 --> 19 --> 103 and the total distance is : 820
+The path from 0 to 104 is: 0 --> 97 --> 248 --> 104 and the total distance is : 228
+The path from 0 to 105 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 143 --> 105 and the total distance is : 840
+The path from 0 to 106 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 143 --> 106 and the total distance is : 836
+The path from 0 to 107 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 and the total distance is : 632
+The path from 0 to 108 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 181 --> 108 and the total distance is : 576
+The path from 0 to 109 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 146 --> 109 and the total distance is : 1052
+The path from 0 to 110 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 110 and the total distance is : 572
+The path from 0 to 111 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 and the total distance is : 727
+The path from 0 to 112 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 and the total distance is : 471
+The path from 0 to 113 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 and the total distance is : 650
+The path from 0 to 114 is: 0 --> 222 --> 114 and the total distance is : 95
+The path from 0 to 115 is: 0 --> 97 --> 248 --> 104 --> 45 --> 76 --> 115 and the total distance is : 488
+The path from 0 to 116 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 --> 116 and the total distance is : 797
+The path from 0 to 117 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 --> 6 --> 117 and the total distance is : 952
+The path from 0 to 118 is: 0 --> 191 --> 165 --> 118 and the total distance is : 294
+The path from 0 to 119 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 119 and the total distance is : 938
+The path from 0 to 120 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 --> 120 and the total distance is : 913
+The path from 0 to 121 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 121 and the total distance is : 703
+The path from 0 to 122 is: 0 --> 191 --> 165 --> 172 --> 92 --> 122 and the total distance is : 520
+The path from 0 to 123 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 --> 152 --> 246 --> 123 and the total distance is : 902
+The path from 0 to 124 is: 0 --> 191 --> 165 --> 124 and the total distance is : 264
+The path from 0 to 125 is: 0 --> 191 --> 165 --> 118 --> 197 --> 125 and the total distance is : 419
+The path from 0 to 126 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 146 --> 109 --> 126 and the total distance is : 1145
+The path from 0 to 127 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 89 --> 127 and the total distance is : 856
+The path from 0 to 128 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 and the total distance is : 458
+The path from 0 to 129 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 129 and the total distance is : 822
+The path from 0 to 130 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 130 and the total distance is : 666
+The path from 0 to 131 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 143 --> 131 and the total distance is : 826
+The path from 0 to 132 is: 0 --> 191 --> 165 --> 171 --> 132 and the total distance is : 403
+The path from 0 to 133 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 133 and the total distance is : 781
+The path from 0 to 134 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 and the total distance is : 900
+The path from 0 to 135 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 and the total distance is : 521
+The path from 0 to 136 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 and the total distance is : 527
+The path from 0 to 137 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 --> 137 and the total distance is : 1002
+The path from 0 to 138 is: 0 --> 44 --> 93 --> 226 --> 138 and the total distance is : 352
+The path from 0 to 139 is: 0 --> 191 --> 165 --> 172 --> 92 --> 139 and the total distance is : 516
+The path from 0 to 140 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 129 --> 147 --> 140 and the total distance is : 954
+The path from 0 to 141 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 and the total distance is : 587
+The path from 0 to 142 is: 0 --> 191 --> 165 --> 142 and the total distance is : 260
+The path from 0 to 143 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 143 and the total distance is : 768
+The path from 0 to 144 is: 0 --> 97 --> 144 and the total distance is : 148
+The path from 0 to 145 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 119 --> 145 and the total distance is : 991
+The path from 0 to 146 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 146 and the total distance is : 968
+The path from 0 to 147 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 129 --> 147 and the total distance is : 907
+The path from 0 to 148 is: 0 --> 44 --> 93 --> 231 --> 208 --> 57 --> 148 and the total distance is : 424
+The path from 0 to 149 is: 0 --> 149 and the total distance is : 96
+The path from 0 to 150 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 1 --> 150 and the total distance is : 815
+The path from 0 to 151 is: 0 --> 44 --> 93 --> 231 --> 208 --> 151 and the total distance is : 257
+The path from 0 to 152 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 --> 152 and the total distance is : 704
+The path from 0 to 153 is: 0 --> 97 --> 248 --> 104 --> 45 --> 76 --> 153 and the total distance is : 495
+The path from 0 to 154 is: 0 --> 58 --> 9 --> 195 --> 154 and the total distance is : 357
+The path from 0 to 155 is: 0 --> 191 --> 165 --> 180 --> 155 and the total distance is : 262
+The path from 0 to 156 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 156 and the total distance is : 569
+The path from 0 to 157 is: 0 --> 44 --> 93 --> 231 --> 208 --> 57 --> 157 and the total distance is : 431
+The path from 0 to 158 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 158 and the total distance is : 748
+The path from 0 to 159 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 159 and the total distance is : 510
+The path from 0 to 160 is: 0 --> 160 and the total distance is : 117
+The path from 0 to 161 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 --> 177 --> 161 and the total distance is : 885
+The path from 0 to 162 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 79 --> 19 --> 192 --> 162 and the total distance is : 951
+The path from 0 to 163 is: 0 --> 163 and the total distance is : 93
+The path from 0 to 164 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 --> 164 and the total distance is : 784
+The path from 0 to 165 is: 0 --> 191 --> 165 and the total distance is : 213
+The path from 0 to 166 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 and the total distance is : 795
+The path from 0 to 167 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 --> 6 --> 117 --> 167 and the total distance is : 1046
+The path from 0 to 168 is: 0 --> 44 --> 93 --> 168 and the total distance is : 167
+The path from 0 to 169 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 --> 189 --> 169 and the total distance is : 874
+The path from 0 to 170 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 and the total distance is : 722
+The path from 0 to 171 is: 0 --> 191 --> 165 --> 171 and the total distance is : 329
+The path from 0 to 172 is: 0 --> 191 --> 165 --> 172 and the total distance is : 311
+The path from 0 to 173 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 173 and the total distance is : 577
+The path from 0 to 174 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 70 --> 174 and the total distance is : 784
+The path from 0 to 175 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 --> 152 --> 246 --> 175 and the total distance is : 834
+The path from 0 to 176 is: 0 --> 202 --> 176 and the total distance is : 88
+The path from 0 to 177 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 --> 177 and the total distance is : 813
+The path from 0 to 178 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 141 --> 35 --> 88 --> 98 --> 178 and the total distance is : 907
+The path from 0 to 179 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 179 and the total distance is : 741
+The path from 0 to 180 is: 0 --> 191 --> 165 --> 180 and the total distance is : 230
+The path from 0 to 181 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 181 and the total distance is : 469
+The path from 0 to 182 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 182 and the total distance is : 735
+The path from 0 to 183 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 --> 64 --> 183 and the total distance is : 1090
+The path from 0 to 184 is: 0 --> 44 --> 93 --> 231 --> 208 --> 57 --> 184 and the total distance is : 397
+The path from 0 to 185 is: 0 --> 97 --> 185 and the total distance is : 154
+The path from 0 to 186 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 --> 186 and the total distance is : 842
+The path from 0 to 187 is: 0 --> 44 --> 93 --> 187 and the total distance is : 207
+The path from 0 to 188 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 188 and the total distance is : 395
+The path from 0 to 189 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 72 --> 189 and the total distance is : 786
+The path from 0 to 190 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 1 --> 220 --> 190 and the total distance is : 853
+The path from 0 to 191 is: 0 --> 191 and the total distance is : 107
+The path from 0 to 192 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 79 --> 19 --> 192 and the total distance is : 857
+The path from 0 to 193 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 143 --> 193 and the total distance is : 836
+The path from 0 to 194 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 and the total distance is : 712
+The path from 0 to 195 is: 0 --> 58 --> 9 --> 195 and the total distance is : 247
+The path from 0 to 196 is: 0 --> 191 --> 165 --> 118 --> 197 --> 125 --> 101 --> 196 and the total distance is : 555
+The path from 0 to 197 is: 0 --> 191 --> 165 --> 118 --> 197 and the total distance is : 363
+The path from 0 to 198 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 242 --> 198 and the total distance is : 663
+The path from 0 to 199 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 --> 25 --> 199 and the total distance is : 857
+The path from 0 to 200 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 200 and the total distance is : 714
+The path from 0 to 201 is: 0 --> 97 --> 185 --> 201 and the total distance is : 223
+The path from 0 to 202 is: 0 --> 202 and the total distance is : 46
+The path from 0 to 203 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 203 and the total distance is : 747
+The path from 0 to 204 is: 0 --> 204 and the total distance is : 54
+The path from 0 to 205 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 and the total distance is : 519
+The path from 0 to 206 is: 0 --> 24 --> 206 and the total distance is : 197
+The path from 0 to 207 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 207 and the total distance is : 625
+The path from 0 to 208 is: 0 --> 44 --> 93 --> 231 --> 208 and the total distance is : 254
+The path from 0 to 209 is: 0 --> 209 and the total distance is : 95
+The path from 0 to 210 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 and the total distance is : 598
+The path from 0 to 211 is: 0 --> 211 and the total distance is : 84
+The path from 0 to 212 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 and the total distance is : 650
+The path from 0 to 213 is: 0 --> 191 --> 165 --> 213 and the total distance is : 263
+The path from 0 to 214 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 and the total distance is : 592
+The path from 0 to 215 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 134 --> 64 --> 215 and the total distance is : 1103
+The path from 0 to 216 is: 0 --> 59 --> 50 --> 48 --> 216 and the total distance is : 322
+The path from 0 to 217 is: 0 --> 97 --> 248 --> 104 --> 217 and the total distance is : 323
+The path from 0 to 218 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 227 --> 218 and the total distance is : 1022
+The path from 0 to 219 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 and the total distance is : 570
+The path from 0 to 220 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 1 --> 220 and the total distance is : 810
+The path from 0 to 221 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 221 and the total distance is : 607
+The path from 0 to 222 is: 0 --> 222 and the total distance is : 75
+The path from 0 to 223 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 223 and the total distance is : 696
+The path from 0 to 224 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 227 --> 29 --> 224 and the total distance is : 1067
+The path from 0 to 225 is: 0 --> 225 and the total distance is : 23
+The path from 0 to 226 is: 0 --> 44 --> 93 --> 226 and the total distance is : 242
+The path from 0 to 227 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 17 --> 81 --> 227 and the total distance is : 931
+The path from 0 to 228 is: 0 --> 97 --> 248 --> 104 --> 45 --> 3 --> 228 and the total distance is : 537
+The path from 0 to 229 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 113 --> 170 --> 229 and the total distance is : 831
+The path from 0 to 230 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 and the total distance is : 410
+The path from 0 to 231 is: 0 --> 44 --> 93 --> 231 and the total distance is : 166
+The path from 0 to 232 is: 0 --> 97 --> 185 --> 232 and the total distance is : 256
+The path from 0 to 233 is: 0 --> 44 --> 93 --> 226 --> 138 --> 233 and the total distance is : 447
+The path from 0 to 234 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 and the total distance is : 551
+The path from 0 to 235 is: 0 --> 191 --> 165 --> 213 --> 235 and the total distance is : 356
+The path from 0 to 236 is: 0 --> 44 --> 93 --> 231 --> 208 --> 65 --> 230 --> 135 --> 86 --> 14 --> 166 --> 236 and the total distance is : 889
+The path from 0 to 237 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 112 --> 234 --> 61 --> 111 --> 25 --> 63 --> 237 and the total distance is : 922
+The path from 0 to 238 is: 0 --> 58 --> 9 --> 195 --> 238 and the total distance is : 360
+The path from 0 to 239 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 239 and the total distance is : 442
+The path from 0 to 240 is: 0 --> 44 --> 93 --> 226 --> 138 --> 240 and the total distance is : 372
+The path from 0 to 241 is: 0 --> 97 --> 248 --> 104 --> 45 --> 3 --> 241 and the total distance is : 531
+The path from 0 to 242 is: 0 --> 44 --> 93 --> 226 --> 138 --> 62 --> 90 --> 242 and the total distance is : 633
+The path from 0 to 243 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 214 --> 70 --> 84 --> 243 and the total distance is : 852
+The path from 0 to 244 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 219 --> 212 --> 244 and the total distance is : 693
+The path from 0 to 245 is: 0 --> 58 --> 9 --> 195 --> 245 and the total distance is : 339
+The path from 0 to 246 is: 0 --> 191 --> 165 --> 172 --> 92 --> 205 --> 210 --> 152 --> 246 and the total distance is : 799
+The path from 0 to 247 is: 0 --> 44 --> 93 --> 32 --> 5 --> 55 --> 136 --> 87 --> 194 --> 116 --> 247 and the total distance is : 873
+The path from 0 to 248 is: 0 --> 97 --> 248 and the total distance is : 162
+The path from 0 to 249 is: 0 --> 44 --> 93 --> 187 --> 77 --> 78 --> 128 --> 69 --> 107 --> 200 --> 249 and the total distance is : 777
+Processed 2 graphs.
