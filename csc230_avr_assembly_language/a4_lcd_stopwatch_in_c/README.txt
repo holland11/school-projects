@@ -1,0 +1,1 @@
+This program is the same as assignment 3 (stopwatch using the LCD screen) except that it is coded in AVR C instead of assembly.
