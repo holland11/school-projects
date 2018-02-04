@@ -1,6 +1,5 @@
 '''
 Patrick Holland
-V00878409
 CSC 361 Assignment 1
 Spring 2018
 

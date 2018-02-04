@@ -1,7 +1,23 @@
 h2 module is used.
 
-example usage:
+This assignment is to create a simple HTTP client.
+The program makes a GET request to the webserver and retrieves the response.
+It handles response codes 200, 301, 302, 307, 404, 505.
+It also handles HTTP 2.0, 1.1, 1.0 and HTTPS.
+With a 301, 302, or 307 it will redirect to the appropriate URL.
+Cookies are displayed (just the key and domain, not the key's value).
+It also displays whether HTTPS is supported and what the highest version of HTTP is supported by the webserver.
+
+Example usage of program:
+	**input**
 $ python3 SmartClient.py www.google.ca
+	**output**
+website: www.google.ca
+1. Support of HTTPS: yes
+2. The newest HTTP version that the web ser
+3. List of Cookies:
+name: -, key: 1P_JAR, domain name: .google.
+name: -, key: NID, domain name: .google.ca
 
 '''
 	program flow:
